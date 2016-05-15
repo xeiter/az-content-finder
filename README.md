@@ -1,6 +1,6 @@
 # Description
 
-AZ Content Finder is a simple plugin that allows the administrators to search for specific text content in all the
+AZ Content Finder is a simple WordPress plugin that allows the administrators to search for specific text content in all the
 posts' meta data (including nested).
 
 There are times when you need to find all the occurrences of specific text throughout the website. This is exactly when
