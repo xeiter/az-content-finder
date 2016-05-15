@@ -1,0 +1,28 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.postbox h2 a {
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+
+.postbox h2 a.action-link {
+    font-size: 0.8rem;
+    font-weight: normal;
+    float: right;
+}
+
+form p.submit {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.highlighted {
+    font-weight: bold;
+}
+
+.postbox .inside {
+    padding-bottom: 5px;
+}
